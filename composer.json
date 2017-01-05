@@ -19,8 +19,5 @@
             "WebmaniaBR": "src/"
         }
     },
-    "require: {
-      "php": ">=5.6.4"
-    },
     "minimum-stability": "dev"
 }
